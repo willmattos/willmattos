@@ -1,4 +1,4 @@
-<h1 align="center">Holaa 👋, me llamo Will Mattos</h1>
+<h1 align="center">Holaa, soy Will Mattos 👋</h1>
 <h3 align="center">Soy un desarrollador Full Stack que termino su grado superior en Desarrollo de Aplicaciones Multiplataforma. Sigo expandiendo mi conocimiento estudiando nuevas tecnologías y mejorando las que ya tengo. Soy una persona bastante autodidacta, y gracias a eso e podido aprender sobre lo que me apasiona, el Desarrollo Web 💻</h3>
 
 
