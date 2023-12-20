@@ -1,5 +1,5 @@
 <h1 align="center">Holaa, soy Will Mattos 👋</h1>
-<h3 align="center">Soy un desarrollador Full Stack. Sigo expandiendo mi conocimiento estudiando nuevas tecnologías y mejorando las que ya tengo. Soy una persona bastante autodidacta, y gracias a eso e podido aprender sobre lo que me apasiona, el Desarrollo Web 💻</h3>
+<h3 align="center">Soy una persona bastante autodidacta, y gracias a eso e podido aprender sobre lo que me apasiona, el Desarrollo Web 💻</h3>
 
 
 - 📫 Puedes contactarme por mi correo **willmattos.c@gmail.com**
